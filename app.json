@@ -1,5 +1,5 @@
 {
-  "name": "Salesforce Delegated Authentication",
+  "name": "SF Delegated Authentication",
   "description": "Simple SOAP service that will play the part ",
   "repository": "https://github.com/davegot13/sfdelegatedauthentication",
   "logo": "https://secure.sfdcstatic.com/common/assets/img/logo-company.png",
